@@ -4,11 +4,11 @@
   <p>**Full-Stack Architect | Performance Obsessed | Crafting Digital Futures**</p>
 </div>
 
-
+<div align="center">
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=4000&color=00FFFF&center=true&vCenter=true&width=900&lines=Building+with+React%2C+Node%2C+FastAPI;Clean+Code+is+The+Only+Code;Ask+Me+About+Context+API+Optimization;Turning+Ideas+into+Scalable+Reality%20%E2%9C%A8)](https://git.io/typing-svg)
+</div>
 
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Welcome GIF"/>
 
 ---
 
@@ -20,17 +20,15 @@
 
 | Area | Detail | Vibe Check |
 | :--- | :--- | :--- |
-| **Current Mission** | Focused on delivering **pixel-perfect, high-performance** web solutions with **React/Next.js**. | 🎯 Precision |
-| **Tech Exploration** | Mastering advanced patterns in **TypeScript**, **Next.js Server Components**, and microservices. | 🧪 Growth |
-| **Favorite Tools** | Nothing beats the speed and utility of **Tailwind CSS** and the structure of **FastAPI**. | ⚙️ Efficiency |
-| **The Debugger** | I'm the wizard who fixes the glitch in the Matrix (usually after drinking more coffee). | 🧙‍♂️ Magic |
-| **Connect** | **[your.email@gmail.com]** \| [LinkedIn]([https://linkedin.com/in/yourprofile]) \| [Portfolio]([https://yourportfolio.com]) | 🌐 Contact |
+| 🔭 **Current Mission** | Focused on delivering **pixel-perfect, high-performance** web solutions with **React/Next.js**. | 🎯 Precision |
+| 🌱 **Tech Exploration** | Mastering advanced patterns in **TypeScript**, **Next.js Server Components**, and microservices. | 🧪 Growth |
+| ⚙️ **Favorite Tools** | Nothing beats the speed and utility of **Tailwind CSS** and the structure of **FastAPI**. | 🚀 Efficiency |
+| 🧙‍♂️ **The Debugger** | I'm the wizard who fixes the glitch in the Matrix (usually after drinking more coffee). | ✨ Magic |
+| 📫 **Connect** | Email: **[your.email@gmail.com]** \| [LinkedIn]([https://linkedin.com/in/yourprofile]) \| [Portfolio]([https://yourportfolio.com]) | 🌐 Contact |
 
 ---
 
 ## ⚙️ The Arsenal: Tech Stack Summary
-
-This section uses compact badges for a dense, visually impactful display of your skills.
 
 ### 💻 Frontend & Styling
 
@@ -79,9 +77,36 @@ This section uses compact badges for a dense, visually impactful display of your
 
 ---
 
+## 🚀 Featured Project: [Project Title Here]
+
+> **[A short, catchy tagline for your best project. e.g., "The ultimate task management app built for speed." ]**
+>
+> 🔭 **Technologies Used:** React, Node.js, MongoDB, Tailwind CSS, Clerk
+>
+> 🌐 [**Live Demo**](https://link-to-live-project.com) | 🛠️ [**Source Code**](https://github.com/your-username/your-best-project)
+>
+> *Pro Tip: Replace the image below with a screenshot or GIF of your project!*
+>
+> 
+
+---
+
+## 📊 My GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumanthsaivenkat1113&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="sumanthsaivenkat1113 GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanthsaivenkat1113&layout=compact&theme=radical&hide_border=true" alt="sumanthsaivenkat1113 Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumanthsaivenkat1113&theme=radical&hide_border=true" alt="sumanthsaivenkat1113 GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/sumanthsaivenkat1113/count.svg" alt="Visitor Count">
+</div>
+
+---
+
 <div align="center">
   <h3>🔥 Let's Connect and Forge Code! 🔥</h3>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzBkbDdxNWJ1NGl6NnZlYmU2bmNrcHVsYTh3Z2Z3aW1mcGNqbzJ4MSZlcD12MV9pbnRlcm5hbF9naWZfYXRmJmN0PWc/3o7WTt7j9d9ZgYt9G8/giphy.gif" width="100" alt="Final Code GIF"/>
 </div>
-
-
