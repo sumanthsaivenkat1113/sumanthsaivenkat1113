@@ -88,6 +88,7 @@
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumanthsaivenkat111)](https://github.com/sumanthsaivenkat111/github-readme-stats)
+![Your GitHub stats](github-readme-stats.vercel.app)
 
 ---
 
