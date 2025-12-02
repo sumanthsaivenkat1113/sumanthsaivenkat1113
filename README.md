@@ -1,8 +1,8 @@
-<div align="center">
+
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y1djB3MXF6bXo1bml5czUzcG5rYjYwZGR3a29nbWJ6ajJmOWR5aiZlcD12MV9pbnRlcm5hbF9naWZfYXRmJmN0PWc/qgQUVwE6759d5sXpIq/giphy.gif" width="100" alt="Hacking GIF"/>
   <h1>Hey! I'm [Your Name] 👋</h1>
   <p><strong>Full-Stack Developer | React Enthusiast | Turning coffee into clean code ☕→💻</strong></p>
-</div>
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Frontend+%7C+Backend+%7C+Full-Stack;React.js+%7C+Node.js+%7C+FastAPI;Building+fast%2C+beautiful%2C+scalable+apps;Always+learning+%F0%9F%94%A5)](https://git.io/typing-svg)
