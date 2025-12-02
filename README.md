@@ -97,13 +97,13 @@ This section uses compact badges for a dense, visually impactful display of your
 
 
   <img src="https://github-readme-stats.vercel.app/api?username=sumanthsaivenkat1113&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanthsaivenkat1113&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumanthsaivenkat1113&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/YOUR-USERNAME/count.svg" alt="Visitor Count">
+  <img src="https://profile-counter.glitch.me/sumanthsaivenkat1113/count.svg" alt="Visitor Count">
 </div>
 
 ---
