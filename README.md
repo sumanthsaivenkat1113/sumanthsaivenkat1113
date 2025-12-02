@@ -4,9 +4,9 @@
   <p>**Full-Stack Architect | Performance Obsessed | Crafting Digital Futures**</p>
 </div>
 
-<div align="center">
+
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=4000&color=00FFFF&center=true&vCenter=true&width=900&lines=Building+with+React%2C+Node%2C+FastAPI;Clean+Code+is+The+Only+Code;Ask+Me+About+Context+API+Optimization;Turning+Ideas+into+Scalable+Reality%20%E2%9C%A8)](https://git.io/typing-svg)
-</div>
+
 
 ---
 
