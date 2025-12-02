@@ -1,8 +1,8 @@
 <!-- You can keep a very subtle avatar or remove the image entirely -->
-<img src="https://github.com/yourusername/yourusername.png" width="120" style="border-radius:50%; border: 4px solid #00bfff;" align="right" />
+<img src="https://github.com/sumanth/sumanth.png" width="120" style="border-radius:50%; border: 4px solid #00bfff;" align="right" />
 
-<h1 align="center">Hi, I'm Sumanth Gunna 👋</h1>
-<h3 align="center">Frontend Developer • React Specialist • Building Full-Stack Solutions</h3>
+<h1 align="center">Hi, I'm Sumanth 👋</h1>
+<h3 align="center"> Full-Stack Developer</h3>
 
 <p align="center">
   <i>Crafting performant, beautiful web experiences with modern React and scalable backends.</i>
