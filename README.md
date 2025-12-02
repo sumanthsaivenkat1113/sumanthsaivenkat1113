@@ -1,98 +1,123 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2s5c3FmNWhuZWlqY2d3eXNuejFqOWFqMzJhbDExczQ1a3JldzJreSZlcD12MV9pbnRlcm5hbF9naWZfYXRmJmN0PWc/pa3VpX1Qd4m36kQ62w/giphy.gif" width="120" alt="Cyberpunk Neon City GIF"/>
   <h1>⚡️ [Your Name]'s Dev Sanctuary ⚡️</h1>
-  <p><strong>Full-Stack Architect | Performance Obsessed | Crafting Digital Futures</strong></p>
+  <p>**Full-Stack Architect | Performance Obsessed | Crafting Digital Futures**</p>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=4000&color=00FFFF&center=true&vCenter=true&width=900&lines=Building+with+React%2C+Node%2C+FastAPI;Clean+Code+is+The+Only+Code;Ask+Me+About+Context+API+Optimization;Turning+Ideas+into+Scalable+Reality+%E2%9C%A8)](https://git.io/typing-svg)
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=4000&color=00FFFF&center=true&vCenter=true&width=900&lines=Building+with+React%2C+Node%2C+FastAPI;Clean+Code+is+The+Only+Code;Ask+Me+About+Context+API+Optimization;Turning+Ideas+into+Scalable+Reality%20%E2%9C%A8)](https://git.io/typing-svg)
+
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
+
+---
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229048386-30c6a5a8-2831-4091-a1b6-75f102f6944e.gif" alt="Neon Line Divider" width="100%"/>
 </div>
 
-## Mission Control: About Me
+## 🤖 Mission Control: About Me
 
 | Area | Detail | Vibe Check |
-|------|--------|------------|
-| **Current Mission** | Pixel-perfect, high-performance web apps with **React/Next.js** | Precision |
-| **Tech Exploration** | Advanced **TypeScript**, **Next.js Server Components**, microservices | Growth |
-| **Favorite Tools** | **Tailwind CSS** + **FastAPI** = pure speed | Efficiency |
-| **The Debugger** | I fix bugs with coffee and sheer willpower | Magic |
-| **Connect** | your.email@gmail.com • [LinkedIn](https://linkedin.com/in/yourprofile) • [Portfolio](https://yourportfolio.com) | Contact |
+| :--- | :--- | :--- |
+| **Current Mission** | Focused on delivering **pixel-perfect, high-performance** web solutions with **React/Next.js**. | 🎯 Precision |
+| **Tech Exploration** | Mastering advanced patterns in **TypeScript**, **Next.js Server Components**, and microservices. | 🧪 Growth |
+| **Favorite Tools** | Nothing beats the speed and utility of **Tailwind CSS** and the structure of **FastAPI**. | ⚙️ Efficiency |
+| **The Debugger** | I'm the wizard who fixes the glitch in the Matrix (usually after drinking more coffee). | 🧙‍♂️ Magic |
+| **Connect** | **[your.email@gmail.com]** \| [LinkedIn]([https://linkedin.com/in/yourprofile]) \| [Portfolio]([https://yourportfolio.com]) | 🌐 Contact |
 
-## The Arsenal: Tech Stack
+---
 
-### Frontend & Styling
+## ⚙️ The Arsenal: Tech Stack Summary
+
+This section uses compact badges for a dense, visually impactful display of your skills.
+
+### 💻 Frontend & Styling
+
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Context%20API-705A93?style=for-the-badge&logo=react&logoColor=white" alt="Context API" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### Backend & API
+### 🌐 Backend & API
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/REST-00599C?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
 </p>
 
-### Databases & Auth
+### 💾 Data & Languages
+
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clerk-6950ff?style=for-the-badge&logo=clerk&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Clerk-6950ff?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk Auth" />
 </p>
 
-### Tools & Deployment
+### 🔨 Tools & Deployment
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
 
-## Featured Project: [Your Best Project Name]
+## 🚀 Featured Project: [Project Title Here]
 
-> **"Blazing-fast task manager with real-time sync and beautiful UI"**
-
-**Stack:** Next.js 15 • TypeScript • Tailwind • Clerk • Prisma • PostgreSQL
-
-[**Live Demo**](https://yourproject.com) • [**Source Code**](https://github.com/sumanthsaivenkat1113/your-repo)
-
-*(Replace with your own screenshot/GIF below)*
-<br>
-<img src="https://your-project-screenshot-or-gif.gif" alt="project preview" width="100%"/>
+> **[A short, catchy tagline for your best project. e.g., "The ultimate task management app built for speed." ]**
+>
+> 🔭 **Technologies Used:** React, Node.js, MongoDB, Tailwind CSS, Clerk
+>
+> 🌐 [**Live Demo**](https://link-to-live-project.com) | 🛠️ [**Source Code**](https://github.com/your-username/your-best-project)
+>
+> *Pro Tip: Replace the image below with a screenshot or GIF of your project!*
+>
+> 
 
 ---
 
-## My GitHub Stats (Now 100% Working!)
+---
+
+## 📊 My GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumanthsaivenkat1113&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanthsaivenkat1113&layout=compact&langs_count=8&theme=radical&hide_border=true" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumanthsaivenkat1113&theme=radical&hide_border=true" />
-</div>
-<br>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sumanthsaivenkat1113&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Profile views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sumanthsaivenkat1113&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="sumanthsaivenkat1113 GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanthsaivenkat1113&layout=compact&theme=radical&hide_border=true" alt="sumanthsaivenkat1113 Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumanthsaivenkat1113&theme=radical&hide_border=true" alt="sumanthsaivenkat1113 GitHub Streak" />
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumanthsaivenkat111)](https://github.com/sumanthsaivenkat111/github-readme-stats)
-![Your GitHub stats](github-readme-stats.vercel.app)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/sumanthsaivenkat1113/count.svg" alt="Visitor Count">
+</div>
 
 ---
 
 <div align="center">
-  <h3>Let's Connect and Build Something Epic!</h3>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzBkbDdxNWJ1NGl6NnZlYmU2bmNrcHVsYTh3Z2Z3aW1mcGNqbzJ4MSZlcD12MV9pbnRlcm5hbF9naWZfYXRmJmN0PWc/3o7WTt7j9d9ZgYt9G8/giphy.gif" width="100"/>
+  <h3>🔥 Let's Connect and Forge Code! 🔥</h3>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzBkbDdxNWJ1NGl6NnZlYmU2bmNrcHVsYTh3Z2Z3aW1mcGNqbzJ4MSZlcD12MV9pbnRlcm5hbF9naWZfYXRmJmN0PWc/3o7WTt7j9d9ZgYt9G8/giphy.gif" width="100" alt="Final Code GIF"/>
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sumanthsaivenkat1113=anuraghazra&show_icons=true)
+
+
+  <h3>🔥 Let's Connect and Forge Code! 🔥</h3>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzBkbDdxNWJ1NGl6NnZlYmU2bmNrcHVsYTh3Z2Z3aW1mcGNqbzJ4MSZlcD12MV9pbnRlcm5hbF9naWZfYXRmJmN0PWc/3o7WTt7j9d9ZgYt9G8/giphy.gif" width="100" alt="Final Code GIF"/>
+
