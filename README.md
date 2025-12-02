@@ -5,6 +5,10 @@
 <h3 align="center"> Full-Stack Developer</h3>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding GIF"/>
+</p>
+
+<p align="center">
   <i>Crafting performant, beautiful web experiences with modern React and scalable backends.</i>
 </p>
 
