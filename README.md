@@ -55,13 +55,32 @@
 
 ## 🌍 Connect With Me  
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/gunji-sumanth-sai-venkat/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@gmail.com">
+
+  <!-- Email -->
+  <a href="mailto:your.gunjisumanthsaivenkat@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
+  <!-- Portfolio -->
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <!-- X / Twitter -->
+  <a href="https://x.com/Sumanth_013305">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+
+  <!-- Medium -->
+  <a href="https://medium.com/@yourusername">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
