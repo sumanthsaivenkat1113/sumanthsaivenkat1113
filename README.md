@@ -15,19 +15,9 @@
 ### Frontend
 <img align="left" src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,vite" height="48"/>
 <br><br>
-
-- React (Hooks, Context, Router, TanStack Query)  
-- TypeScript • JavaScript (ES6+)  
-- Tailwind CSS • CSS Modules • Styled-Components  
-- Vite • Clerk Auth • REST & GraphQL
-
 ### Backend & Databases
 <img align="left" src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,mysql,mongodb" height="48"/>
 <br><br>
-
-- Node.js + Express  
-- Python – FastAPI & Flask  
-- MySQL • MongoDB
 
 ### Tools & Others
 <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman" height="42"/>
