@@ -93,15 +93,10 @@ This section uses compact badges for a dense, visually impactful display of your
 
 ---
 
----
 
 <div align="center">
   <h3>🔥 Let's Connect and Forge Code! 🔥</h3>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzBkbDdxNWJ1NGl6NnZlYmU2bmNrcHVsYTh3Z2Z3aW1mcGNqbzJ4MSZlcD12MV9pbnRlcm5hbF9naWZfYXRmJmN0PWc/3o7WTt7j9d9ZgYt9G8/giphy.gif" width="100" alt="Final Code GIF"/>
 </div>
 
-
-
-  <h3>🔥 Let's Connect and Forge Code! 🔥</h3>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzBkbDdxNWJ1NGl6NnZlYmU2bmNrcHVsYTh3Z2Z3aW1mcGNqbzJ4MSZlcD12MV9pbnRlcm5hbF9naWZfYXRmJmN0PWc/3o7WTt7j9d9ZgYt9G8/giphy.gif" width="100" alt="Final Code GIF"/>
 
