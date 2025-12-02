@@ -15,6 +15,7 @@
 ### Frontend
 <img align="left" src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,vite" height="48"/>
 <br><br>
+
 ### Backend & Databases
 <img align="left" src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,mysql,mongodb" height="48"/>
 <br><br>
