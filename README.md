@@ -1,73 +1,70 @@
-# 🧑‍💻 [Your Name] | Full-Stack Developer
-
-### Modern applications engineered for performance and scale.
-
----
-
-## 🎯 Profile Overview
-
-I am a dedicated **Full-Stack Developer** specializing in the React ecosystem for the frontend and versatile backend development using Node.js/Express, Flask, and FastAPI. My focus is on building robust, maintainable, and highly efficient web solutions from concept to deployment.
-
-### Current Focus
-
-* **Scalability:** Implementing advanced caching and microservice patterns.
-* **Security:** Deepening expertise in secure authentication flows (Clerk integration).
-* **Best Practices:** Ensuring high test coverage and adopting CI/CD workflows.
-
----
-
-## 🛠️ Core Technology Stack
-
-A comprehensive overview of the tools I leverage to deliver professional-grade software.
-
-### 🌐 Frontend & State Management
-| Technology | Key Skills |
-| :--- | :--- |
-| **Frameworks** | React.js (Hooks, Context, Router) |
-| **Languages** | JavaScript (ES6+), HTML5, CSS3 |
-| **Styling** | Tailwind CSS, CSS Modules, Styled-Components |
-| **API/Auth** | REST APIs (Axios, Fetch), Clerk Authentication |
-
-### ☁️ Backend & Data
-| Category | Key Skills |
-| :--- | :--- |
-| **Runtime** | Node.js, Express.js |
-| **Python Frameworks** | Flask, FastAPI (High-Performance APIs) |
-| **Databases** | MySQL (Relational), MongoDB (NoSQL) |
-| **Languages** | Java, Python, C++ (Foundational) |
-
-### ⚙️ Tools & Deployment
-| Tool | Purpose |
-| :--- | :--- |
-| **Build** | Vite |
-| **VCS** | Git, GitHub |
-| **Deployment** | Vercel, Netlify |
-| **Testing/API** | Postman, VS Code |
-
----
-
-## 📊 Development Metrics
-
-Recruiting managers can review my consistent contribution history and language proficiency below.
+<!-- Hero Section -->
+<h1 align="center">🌐 Hey, I'm <span style="color:#00bfff;">Sumanth Gunna</span> 👋</h1>
+<h3 align="center">Frontend Developer | React Specialist | Backend Explorer</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=quiet&hide_border=true&count_private=true&line_height=25" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=quiet&hide_border=true&langs_count=6" alt="Top Languages"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding GIF"/>
 </p>
 
 ---
 
-## 🔗 Connect
+## 🚀 **About Me**
 
-I am actively seeking challenging full-stack or senior frontend opportunities. Let's discuss how my skills can benefit your team.
+💡 Passionate **Frontend Developer** crafting clean, modern, user-centric web interfaces.  
+⚛️ Specialized in **React**, modern UI patterns, and smooth UX flows.  
+🧩 Backend-curious — building scalable APIs with **Node.js, Express, FastAPI, Flask**.  
+📦 Love shipping high-quality projects with optimized performance & clean architecture.  
+🎯 Currently leveling up in **TypeScript**, **Microservices**, and **Cloud Deployments**.
 
-* **LinkedIn:** [Your LinkedIn Profile URL]
-* **Portfolio:** [Your Professional Portfolio Website URL]
-* **Email:** [Your Professional Email Address]
+---
 
-<br>
+## 🛠️ **Tech Arsenal**
 
-***
+### 🌐 **Frontend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite" height="45"/>
+</p>
 
-> "Simplicity is the ultimate sophistication." - Leonardo da Vinci
+- **React.js** (Hooks, Context API, Router)  
+- **JavaScript (ES6+)**  
+- Tailwind CSS | CSS Modules | Styled-Components  
+- REST APIs (Axios / Fetch)  
+- Clerk Authentication  
+- Vite | Git/GitHub | VS Code | Postman  
+
+---
+
+### 🔧 **Backend**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi" height="45"/>
+</p>
+
+- Node.js & Express  
+- FastAPI & Flask  
+
+---
+
+### 🗄️ **Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="45"/>
+</p>
+
+- MySQL  
+- MongoDB  
+
+---
+
+### 💻 **Programming Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp" height="45"/>
+</p>
+
+---
+
+## ⚡ **Current Mission**
+
+```yaml
+Mission Control 🚀
+  - Focus: Building high-performance React apps
+  - Learning: TypeScript, System Design, API Architecture
+  - Ambition: Full-stack mastery (MERN + FastAPI)
