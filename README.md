@@ -25,10 +25,10 @@
 
 ---
 
-## 🛠 Tools, DevOps & React Ecosystem
+## 🛠 Tools & React Ecosystem
 <p>
   <!-- Core Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,npm,yarn,pnpm" height="48"/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,npm,yarn,pnpm" height="48"/>
 
   <!-- React Ecosystem -->
   <img src="https://skillicons.dev/icons?i=redux" height="48"/>
