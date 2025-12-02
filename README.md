@@ -105,8 +105,9 @@ This section uses compact badges for a dense, visually impactful display of your
 <div align="center">
   <img src="https://profile-counter.glitch.me/sumanthsaivenkat1113/count.svg" alt="Visitor Count">
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sumanthsaivenkat1113=anuraghazra&show_icons=true)
 ---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?sumanthsaivenkat1113=anuraghazra&show_icons=true)
 
 
   <h3>🔥 Let's Connect and Forge Code! 🔥</h3>
