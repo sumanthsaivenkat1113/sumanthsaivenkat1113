@@ -35,8 +35,6 @@
   <img src="https://skillicons.dev/icons?i=jest" height="48"/>
   <img src="https://skillicons.dev/icons?i=vite" height="48"/>
   <img src="https://skillicons.dev/icons?i=webpack" height="48"/>
-  <img src="https://skillicons.dev/icons?i=eslint" height="48"/>
-  <img src="https://skillicons.dev/icons?i=prettier" height="48"/>
 
   <!-- Other React Tools (no official icons, added as text badges) -->
   <img src="https://img.shields.io/badge/Zustand-1B1F24?style=for-the-badge&logo=react&logoColor=white" height="28"/>
