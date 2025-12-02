@@ -16,15 +16,27 @@
   <img src="https://user-images.githubusercontent.com/74038190/229048386-30c6a5a8-2831-4091-a1b6-75f102f6944e.gif" width="100%" />
 </div>
 
-# 🤖 Mission Control
+# 🤖 Mission Control: Operator Profile
 
-| Zone | Description | Energy |
-|------|-------------|--------|
-| **Current Focus** | Building **high-performance React apps**, refining **Next.js RSC patterns** | 🚀 Hyperdrive |
-| **Learning Path** | Diving deeper into **TypeScript**, **Microservices**, and **API Design** | 📡 Signal Boost |
-| **Go-To Stack** | React, Tailwind, FastAPI, Vite, Zustand | ⚙️ Optimized |
-| **Debug Style** | Calm… until the bug bites back 😉 | 🐉 Dragon Slayer |
-| **Connect** | `your.email@gmail.com` \| [LinkedIn](#) \| [Portfolio](#) | 🌐 Online |
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2FscjNwdHQ5eGJheTAyNGpxOGp2N25oOGN6MzUxYzg5eWlkYyZlcD12MV9pbnRlcm5hbF9naWZfYXRmJmN0PWc/fxIv5fSMLrtdi/giphy.gif" width="200" />
+</div>
+
+| Module | Status | Signal |
+|--------|--------|--------|
+| **Active Protocol** | Crafting **ultra-fast, production-grade** React/Next.js interfaces with clean architecture | ⚡ Prime Sync |
+| **Skill Uplink** | Leveling up **TypeScript mastery**, **server-side patterns**, & **API engineering** | 🚀 Ascending |
+| **Core Frameworks** | React • Next.js • Tailwind • FastAPI • Zustand • Vite | 🛠️ Stable |
+| **Problem-Solving Mode** | Breaks bugs, bends logic, restores systems before the coffee cools | 🧩 Adaptive |
+| **Comms Channel** | `your.email@gmail.com` · LinkedIn · Portfolio | 📡 Online |
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGc1aW1xZGUxZm5mY2ZhaWF5eWhxeWlhOXJiYWZmd2d1OHppdyZlcD12MV9pbnRlcm5hbF9naWZfYXRmJmN0PWc/L8K62iTDkzGX6/giphy.gif" width="100" />
+  <h3>Systems Online. Mission Ready.</h3>
+</div>
+
 
 ---
 
