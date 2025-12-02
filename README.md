@@ -1,70 +1,46 @@
-<!-- Hero Section -->
-<h1 align="center">🌐 Hey, I'm <span style="color:#00bfff;">Sumanth Gunna</span> 👋</h1>
-<h3 align="center">Frontend Developer | React Specialist | Backend Explorer</h3>
+<!-- You can keep a very subtle avatar or remove the image entirely -->
+<img src="https://github.com/yourusername/yourusername.png" width="120" style="border-radius:50%; border: 4px solid #00bfff;" align="right" />
+
+<h1 align="center">Hi, I'm Sumanth Gunna 👋</h1>
+<h3 align="center">Frontend Developer • React Specialist • Building Full-Stack Solutions</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding GIF"/>
+  <i>Crafting performant, beautiful web experiences with modern React and scalable backends.</i>
 </p>
 
----
+<br/>
 
-## 🚀 **About Me**
+## 🛠 Tech Stack
 
-💡 Passionate **Frontend Developer** crafting clean, modern, user-centric web interfaces.  
-⚛️ Specialized in **React**, modern UI patterns, and smooth UX flows.  
-🧩 Backend-curious — building scalable APIs with **Node.js, Express, FastAPI, Flask**.  
-📦 Love shipping high-quality projects with optimized performance & clean architecture.  
-🎯 Currently leveling up in **TypeScript**, **Microservices**, and **Cloud Deployments**.
+### Frontend
+<img align="left" src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,vite" height="48"/>
+<br><br>
 
----
+- React (Hooks, Context, Router, TanStack Query)  
+- TypeScript • JavaScript (ES6+)  
+- Tailwind CSS • CSS Modules • Styled-Components  
+- Vite • Clerk Auth • REST & GraphQL
 
-## 🛠️ **Tech Arsenal**
+### Backend & Databases
+<img align="left" src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,mysql,mongodb" height="48"/>
+<br><br>
 
-### 🌐 **Frontend**
+- Node.js + Express  
+- Python – FastAPI & Flask  
+- MySQL • MongoDB
+
+### Tools & Others
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman" height="42"/>
+
+<br/>
+
+## ⚡ Currently
+- 🔨 Building production-grade React applications with TypeScript & best practices
+- 🚀 Exploring system design, microservices, and cloud deployments (Docker, AWS)
+- 🎯 Goal: Master the full MERN stack + FastAPI for end-to-end ownership
+
+## 📫 Let’s connect
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,vite" height="45"/>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
-- **React.js** (Hooks, Context API, Router)  
-- **JavaScript (ES6+)**  
-- Tailwind CSS | CSS Modules | Styled-Components  
-- REST APIs (Axios / Fetch)  
-- Clerk Authentication  
-- Vite | Git/GitHub | VS Code | Postman  
-
----
-
-### 🔧 **Backend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,fastapi" height="45"/>
-</p>
-
-- Node.js & Express  
-- FastAPI & Flask  
-
----
-
-### 🗄️ **Databases**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="45"/>
-</p>
-
-- MySQL  
-- MongoDB  
-
----
-
-### 💻 **Programming Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp" height="45"/>
-</p>
-
----
-
-## ⚡ **Current Mission**
-
-```yaml
-Mission Control 🚀
-  - Focus: Building high-performance React apps
-  - Learning: TypeScript, System Design, API Architecture
-  - Ambition: Full-stack mastery (MERN + FastAPI)
