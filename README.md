@@ -1,4 +1,4 @@
-# Hey! I'm Sumanth 👋](https://github.com/sumanthsaivenkat1113)
+# Hey! I'm Sumanth 👋
 
 **Full-Stack Developer | React Enthusiast | Turning coffee into clean code ☕→💻**
 
@@ -14,7 +14,7 @@
 - 🌱 Mastering **Next.js 15**, **TypeScript**, and **Server Actions**
 - ⚡ Fun fact: I can debug with console.log and still feel like a wizard
 - 💬 Ask me about **React performance**, **clean architecture**, or **why Tailwind is life**
-- 📫 Reach me: **your.email@gmail.com** | [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com)
+- 📫 Reach me: **gunjisumanthsaivenkat@gmail.com** | [LinkedIn](https://www.linkedin.com/in/gunji-sumanth-sai-venkat/) | [Portfolio](https://yourportfolio.com)
 
 ---
 
