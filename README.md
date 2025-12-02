@@ -23,9 +23,26 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,mysql,mongodb" height="48"/>
 </p>
 
-### 🛠 Tools & DevOps
+---
+
+## 🛠 Tools, DevOps & React Ecosystem
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman" height="48"/>
+  <!-- Core Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,npm,yarn,pnpm" height="48"/>
+
+  <!-- React Ecosystem -->
+  <img src="https://skillicons.dev/icons?i=redux" height="48"/>
+  <img src="https://skillicons.dev/icons?i=jest" height="48"/>
+  <img src="https://skillicons.dev/icons?i=vite" height="48"/>
+  <img src="https://skillicons.dev/icons?i=webpack" height="48"/>
+  <img src="https://skillicons.dev/icons?i=eslint" height="48"/>
+  <img src="https://skillicons.dev/icons?i=prettier" height="48"/>
+
+  <!-- Other React Tools (no official icons, added as text badges) -->
+  <img src="https://img.shields.io/badge/Zustand-1B1F24?style=for-the-badge&logo=react&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/Shadcn_UI-black?style=for-the-badge&logo=react&logoColor=white" height="28"/>
 </p>
 
 ---
