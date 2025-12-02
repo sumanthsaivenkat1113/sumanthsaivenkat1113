@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Frontend+%7C+Backend+%7C+Full-Stack;React.js+%7C+Node.js+%7C+FastAPI;Building+fast%2C+beautiful%2C+scalable+apps;Always+learning+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Frontend+%7C+Backend+%7C+Full-Stack;React.js+%7C+Node.js+%7C+FastAPI;Building+fast%2C+beautiful%2C+scalable+apps;Always+learning+%F0%9F%94%A5)](https://git.io/typing-svg)
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="welcome-gif" width="100%"/>
