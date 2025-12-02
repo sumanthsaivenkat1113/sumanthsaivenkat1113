@@ -1,41 +1,55 @@
-<!-- You can keep a very subtle avatar or remove the image entirely -->
-<img src="https://github.com/sumanth/sumanth.png" width="120" style="border-radius:50%; border: 4px solid #00bfff;" align="right" />
-
-<h1 align="center">Hi, I'm Sumanth 👋</h1>
-<h3 align="center"> Full-Stack Developer</h3>
+<h1 align="center">👨‍💻 Sumanth Gunna</h1>
+<h3 align="center">Full-Stack Developer | Building Reliable & Scalable Web Applications</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding GIF"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Coding GIF"/>
 </p>
 
 <p align="center">
-  <i>Crafting performant, beautiful web experiences with modern React and scalable backends.</i>
+  ⚡ Focused on creating performant interfaces, robust APIs, and smooth end-to-end user experiences.
 </p>
 
-<br/>
+---
 
-## 🛠 Tech Stack
+## 🚀 Tech I Work With
 
-### Frontend
-<img align="left" src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind,vite" height="48"/>
-<br><br>
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,tailwind,html,css,vite" height="48"/>
+</p>
 
-### Backend & Databases
-<img align="left" src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,mysql,mongodb" height="48"/>
-<br><br>
+### 🧠 Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,flask,mysql,mongodb" height="48"/>
+</p>
 
-### Tools & Others
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman" height="42"/>
+### 🛠 Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman" height="48"/>
+</p>
 
-<br/>
+---
 
-## ⚡ Currently
-- 🔨 Building production-grade React applications with TypeScript & best practices
-- 🚀 Exploring system design, microservices, and cloud deployments (Docker, AWS)
-- 🎯 Goal: Master the full MERN stack + FastAPI for end-to-end ownership
+## 📌 What I'm Up To
+- 🚀 Developing production-grade applications with **React, TypeScript & FastAPI**
+- ⚙️ Learning **API Architecture, System Design, Microservices**
+- 🌐 Exploring **AWS, Docker, CI/CD pipelines**
+- 🎯 Goal: Become strong in **MERN + FastAPI** for full-stack product delivery
 
-## 📫 Let’s connect
+---
+
+## 🌍 Connect With Me  
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐️ *Engineering clarity, performance & reliability.*  
 </p>
