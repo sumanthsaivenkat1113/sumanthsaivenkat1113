@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Sumanth Gunna</h1>
+<h1 align="center">👨‍💻 Sumanth Gunji</h1>
 <h3 align="center">Full-Stack Developer | Building Reliable & Scalable Web Applications</h3>
 
 <p align="center">
