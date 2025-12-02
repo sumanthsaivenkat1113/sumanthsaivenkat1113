@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJuaTZzNGV2MjIybTVmZWMydGpqZTF2cXZncmhudGRwdW1vNHk3MCZlcD12MV9pbnRlcm5hbF9naWZfYXRmJmN0PWc/26tn33aiTi1jkl6H6/giphy.gif" width="140" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJuaTZzNGV2MjIybTVmZWMydGpqZTF2cXZncmhudGRwdW1vNHk3MCZlcD12MV9pbnRlcm5hbF9naWZfYXRmJmN0PWc/26tn33aiTi1jkl6H6/giphy.gif" width="750" />
 
   <h1 style="font-size: 38px;">⚡️ Sumanth's Neon Devverse ⚡️</h1>
 
