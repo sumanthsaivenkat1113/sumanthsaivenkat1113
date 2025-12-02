@@ -96,7 +96,7 @@ This section uses compact badges for a dense, visually impactful display of your
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sumanthsaivenkat1113&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Your GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
