@@ -87,7 +87,7 @@
   <img src="https://komarev.com/ghpvc/?username=sumanthsaivenkat1113&label=Profile%20Views&color=00d9ff&style=flat-square" alt="Profile views" />
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumanthsaivenkat111)](https://github.com/sumanthsaivenkat111/github-readme-stats)
 
 ---
 
