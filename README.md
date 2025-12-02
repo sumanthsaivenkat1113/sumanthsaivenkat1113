@@ -8,6 +8,8 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=4000&color=00FFFF&center=true&vCenter=true&width=900&lines=Building+with+React%2C+Node%2C+FastAPI;Clean+Code+is+The+Only+Code;Ask+Me+About+Context+API+Optimization;Turning+Ideas+into+Scalable+Reality%20%E2%9C%A8)](https://git.io/typing-svg)
 
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%"/>
+
 ---
 
 <div align="center">
