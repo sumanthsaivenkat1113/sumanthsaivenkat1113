@@ -66,7 +66,7 @@
   </a>
 
   <!-- Portfolio -->
-  <a href="https://your-portfolio.com">
+  <a href="https://sumanthsaivenkat-portffolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
@@ -76,7 +76,7 @@
   </a>
 
   <!-- Medium -->
-  <a href="https://medium.com/@yourusername">
+  <a href="https://medium.com/@gunjisumanthsaivenkat">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
 </p>
